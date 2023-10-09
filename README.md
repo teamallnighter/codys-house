@@ -28,23 +28,23 @@ Or install it yourself as:
 
 ### Navigation
 
-✅ [Mega Navigation]()
-✅ [Footer](https://codyhouse.co/ds/components/info/main-footer) 
+- [Mega Navigation]()
+- [Footer](https://codyhouse.co/ds/components/info/main-footer) 
 
 ### Sections
 
-✅ [Hero Section](https://codyhouse.co/ds/components/info/hero)
-✅ [FAQ](https://codyhouse.co/ds/components/info/faq-v3)
-✅ [Contact Form](https://codyhouse.co/ds/components/info/form-template-v3)
+- [Hero Section](https://codyhouse.co/ds/components/info/hero)
+- [FAQ](https://codyhouse.co/ds/components/info/faq-v3)
+- [Contact Form](https://codyhouse.co/ds/components/info/form-template-v3)
 
 ### Testimonials
 
-✅ [Large Testimonial](https://codyhouse.co/ds/components/info/testimonial)
-✅ [Testimonial Banner](https://codyhouse.co/ds/components/info/testimonial-banner)
+- [Large Testimonial](https://codyhouse.co/ds/components/info/testimonial)
+- [Testimonial Banner](https://codyhouse.co/ds/components/info/testimonial-banner)
 
 ### Features
 
-✅ [Sticky Feature](https://codyhouse.co/ds/components/info/sticky-feature)
+- [Sticky Feature](https://codyhouse.co/ds/components/info/sticky-feature)
 
 
 
