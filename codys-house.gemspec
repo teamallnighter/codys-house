@@ -6,8 +6,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Chris Connelly"]
   spec.email         = ["me@chrisconnelly.dev"]
 
-  spec.summary       = "A simple jekyll theme made up from Cody House componants."
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{A simple jekyll theme made up from Cody House componants.}
+  spec.homepage      = "https://github.com/teamallnighter/codys-house"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_data|_layouts|_includes|_sass|LICENSE|README|_config\.yml)!i) }
