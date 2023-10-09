@@ -1,0 +1,13 @@
+.section-100, .hero{
+    height: 100vh;
+}
+
+.section-50{
+    height: 50vh;
+}
+
+.section-50-10-10{
+    margin-bottom: 10vh; 
+    margin-top: 10vh
+    height: 50vh;
+}

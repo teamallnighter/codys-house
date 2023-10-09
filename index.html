@@ -1,5 +1,13 @@
 ---
 layout: default
-title: Home
+title: home
 ---
-{% include sections/hero.html %}
+<section class="section-100" id="{{ page.title }}-hero">
+    {% include heros/hero.html %}
+</section>
+<section class="section-50-10-10" id="{{ page.title }}-df-1" style="margin-bottom: 10vh; margin-top: 10vh;">
+    {% include features/device-feature-1.html %}
+</section>  
+<section class="section-50-10-10" id="{{ page.title }}-testi" style="background-color:lightskyblue;">
+    {% include testimonials/large-testi.html %}
+</section>

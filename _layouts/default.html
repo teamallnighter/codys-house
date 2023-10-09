@@ -7,8 +7,9 @@
   </head>
   <body>
     {% include navigation/navigation.html %}
-    {{ content }}
-
+    <main class="{{ page.title }}-main">
+      {{ content }}
+    </main>
     {% include navigation/footer.html %}
     {% include scripts.html %}
   </body>
