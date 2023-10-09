@@ -3,6 +3,7 @@ title: Chris Connelly - Web Developer
 tagline: "Changing the world, one uninspired quote at a time"
 company: "chrisConnellyDotDev"
 url: "http://yourwebsite.com" # The base hostname & protocol for your site. Use it if you need absolute URL's
+logo: "https://raw.githubusercontent.com/teamallnighter/codys-house/main/assets/images/ccdd.webp"
 
 # Social
 socialimg: /img/social.jpg # be sure to change this image
