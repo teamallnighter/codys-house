@@ -24,18 +24,29 @@ Or install it yourself as:
 
     $ gem install codys-house
 
-## Usage
+## Componants
 
-### Componants
+### Navigation
 
-    [Mega Navigation]()
-    [Hero Section](https://codyhouse.co/ds/components/info/hero)
-    [Large Testimonial](https://codyhouse.co/ds/components/info/testimonial)
-    [Testimonial Banner](https://codyhouse.co/ds/components/info/testimonial-banner)
-    [Sticky Feature](https://codyhouse.co/ds/components/info/sticky-feature)
-    [Footer](https://codyhouse.co/ds/components/info/main-footer) 
-    [FAQ](https://codyhouse.co/ds/components/info/faq-v3)
-    [Contact Form](https://codyhouse.co/ds/components/info/form-template-v3)
+✅ [Mega Navigation]()
+✅ [Footer](https://codyhouse.co/ds/components/info/main-footer) 
+
+### Sections
+
+✅ [Hero Section](https://codyhouse.co/ds/components/info/hero)
+✅ [FAQ](https://codyhouse.co/ds/components/info/faq-v3)
+✅ [Contact Form](https://codyhouse.co/ds/components/info/form-template-v3)
+
+### Testimonials
+
+✅ [Large Testimonial](https://codyhouse.co/ds/components/info/testimonial)
+✅ [Testimonial Banner](https://codyhouse.co/ds/components/info/testimonial-banner)
+
+### Features
+
+✅ [Sticky Feature](https://codyhouse.co/ds/components/info/sticky-feature)
+
+
 
 
 ## Contributing
