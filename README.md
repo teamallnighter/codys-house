@@ -26,6 +26,12 @@ Or install it yourself as:
 
 ## Componants
 
+Componants are done as includes in this template and, can be included like so:
+
+```html
+{% include hero.html %}
+```
+
 ### Navigation
 
 - [Mega Navigation]()
