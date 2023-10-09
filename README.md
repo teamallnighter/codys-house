@@ -26,7 +26,17 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here. Describe your available layouts, includes, sass and/or assets.
+### Componants
+
+    [Mega Navigation]()
+    [Hero Section](https://codyhouse.co/ds/components/info/hero)
+    [Large Testimonial](https://codyhouse.co/ds/components/info/testimonial)
+    [Testimonial Banner](https://codyhouse.co/ds/components/info/testimonial-banner)
+    [Sticky Feature](https://codyhouse.co/ds/components/info/sticky-feature)
+    [Footer](https://codyhouse.co/ds/components/info/main-footer) 
+    [FAQ](https://codyhouse.co/ds/components/info/faq-v3)
+    [Contact Form](https://codyhouse.co/ds/components/info/form-template-v3)
+
 
 ## Contributing
 

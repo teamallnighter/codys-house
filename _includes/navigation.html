@@ -27,7 +27,7 @@
   
         <ul class="f-header__list flex-grow flex-basis-0 justify-center@md">
           {% for item in site.data.navigation %}
-          <li class="f-header__item"><a href="{{ item.link }}"{% if page.url == item.link %}style="color: red;"{% endif %} class="f-header__link">{{ item.name }}</a></li>
+          <li class="f-header__item"><a href="{{ item.link }}"{% if page.url == item.link %}style="display:none;"{% endif %} class="f-header__link">{{ item.name }}</a></li>
           {% endfor %}
         </ul>
   
