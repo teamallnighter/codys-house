@@ -24,24 +24,39 @@ Or install it yourself as:
 
     $ gem install codys-house
 
+## Config File 
+
+Please read the _config.yml before making any major changes to the site. I promise you this will save some head ache. 
+
+## Data
+
+Data and the _config.yml are used as much as possible to automate entering data into the site. After entering your information in the config file, go to the data file and twek that data before moving on. This will ensure the site has everything pertinant to your new site. 
+
 ## Componants
 
 Componants are done as includes in this template and, can be included like so:
 
 ```html
-{% include hero.html %}
+{% include sections/hero.html %}
 ```
+
+I have taken the liberty of organizing the componants as to avoid a massive build of componants in the includes folder. I have also renamed a few of the componants. IE Feature 14 is now device features but, include all four of the feature. 
 
 ### Navigation
 
 - [Mega Navigation]()
 - [Footer](https://codyhouse.co/ds/components/info/main-footer) 
 
+### Heros
+
+- [Hero](https://codyhouse.co/ds/components/info/hero)
+- [Sticky Hero](https://codyhouse.co/ds/components/info/sticky-hero)
+- [Boxed Hero](https://codyhouse.co/ds/components/info/boxed-hero)
+- [Video Hero](https://codyhouse.co/ds/components/info/video-background-hero)
+
 ### Sections
 
-- [Hero Section](https://codyhouse.co/ds/components/info/hero)
 - [FAQ](https://codyhouse.co/ds/components/info/faq-v3)
-- [Contact Form](https://codyhouse.co/ds/components/info/form-template-v3)
 
 ### Testimonials
 
@@ -51,9 +66,14 @@ Componants are done as includes in this template and, can be included like so:
 ### Features
 
 - [Sticky Feature](https://codyhouse.co/ds/components/info/sticky-feature)
+- [Tabbed Feature](https://codyhouse.co/ds/components/info/tabbed-features-v2)
+- [Device Features](https://codyhouse.co/ds/components/info/feature-v14)
+- [Diamond Grid Feature](https://codyhouse.co/ds/components/info/feature-v13)
 
+### Forms
 
-
+- [Contact](https://codyhouse.co/ds/components/info/form-template)
+- [Contact 3](https://codyhouse.co/ds/components/info/form-template-v3)
 
 ## Contributing
 
