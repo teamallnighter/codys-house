@@ -24724,7 +24724,7 @@ Component
   align-items: center;
   justify-content: center;
   margin: 0 auto 1.5rem;
-  color: hsl(250, 84%, 54%); /* icon color */
+ 
   transition: color 0.3s;
 }
 .feature-v20__icon-wrapper::before {
@@ -24732,7 +24732,7 @@ Component
   position: absolute;
   inset: 0;
   border-radius: inherit;
-  background-color: hsl(0, 0%, 100%);
+ 
   box-shadow: 0 0 0 1px hsla(230, 13%, 9%, 0.05);
   z-index: 1;
   transition: transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1), box-shadow 0.3s;
