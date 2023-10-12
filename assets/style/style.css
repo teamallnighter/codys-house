@@ -24718,22 +24718,16 @@ Component
 .feature-v20__icon-wrapper {
   position: relative;
   width: 52px;
-  height: 52px;
-  border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
   margin: 0 auto 1.5rem;
- 
-  transition: color 0.3s;
 }
 .feature-v20__icon-wrapper::before {
   content: "";
   position: absolute;
   inset: 0;
-  border-radius: inherit;
- 
-  box-shadow: 0 0 0 1px hsla(230, 13%, 9%, 0.05);
+  box-shadow: 1px 1px 1px 1px hsla(230, 13%, 9%, 0.05);
   z-index: 1;
   transition: transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1), box-shadow 0.3s;
 }
